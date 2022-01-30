@@ -4,102 +4,54 @@ permalink: "/about/"
 layout: page
 ---
 
-<h2 align = "center"> JOÃO VICTOR ISÁ BARRENHA </h2>
-
-<h4 align = "center"> <a href="barrenha95@yahoo.com.br">barrenha95@yahoo.com.br</a> | +55 14 98815 7415</h4>
-
-<h4 align = "center"> <a href="https://www.linkedin.com/in/barrenha95/">linkedin.com/in/barrenha95</a> </h4>
+# João Barrenha
  
-<br>
+<img class = "marginauto" src="/assets/img/general/authors.jpg" width = "400" height = "400"> 
 
-<h3 align = "center"> POSITIONS HELD: DATA SCIENTIST, MACHINE LEARNING ENGINEER AND DATA ANALYST </h3>
 
-<br>
+Is a brazillian Data Scientist borned in 1995.
 
-<h2 align = "center"> SUMMARY & SKILLS </h2>
+In high school times, he suffered a lot to choose which path of study he would follow (A proof is that he tried medicine, made a year of engineering, and soon will end his bachelor's degree in law).
 
-I'm highly motivated by professional development, seeking for excellence at work, and acquiring knowledge for problem solving. I have expertise with planning, especially in credit recovery, call center operations, and digital products. I have experience with artificial intelligence, machine learning, business analysis, data analysis, and planning. I’m passionate about data and my main desire is to help society with technological and innovative solutions.
+He desires to improve his skills, becoming one of the best Machine Learning Engineers in the world.
 
-- 3 years of experience with data science, 5 years with planning, and 7 years with credit recovery.
-- Proficient in Python, R, SQL, Business Intelligence and Machine Learning.
-- Used to work with different IDEs/text editors like Sublime, VS Code, Jupyter Notebook, Visual Studio Pro, Rstudio, and Google Colab.
-- Used to work with virtual environments and Git. 
-- Expert in Postgresql, SQL, FTP, APIs, and diverse types of text files.
-- Advanced knowledge in Power Bi, Tableau, and Microsoft Excel.
-- I’m highly organized. In almost all of the teams I've worked in, I was responsible for taking minutes at meetings, writing readable scripts, directory management, and project documentation.
-- I have a diplomatic personality. It helps me to avoid unnecessary conflicts while I defend the company's interests.
+His biggest dream is to create a Social Project to bring education to all.
 
-<br>
 
-<h2 align = "center"> PROFESSIONAL EXPERIENCE </h2>
+## TIMELINE
 
-## **CLEAR SALE | Oct/2021 - current**
-## Modeling Analyst | Oct/2021 - current
-Acting as a Machine Learning Engineer
-- Management of Machine Learning models like implantations, swaps, and shutdowns.
-- Follow Machine Learning process reporting and solving issues.
-- Track some dashboards focused on Service Level Agreement (ex: time to process a requisition and score punctuation).
-  
-Responsible for the analytics insights in the external data squad.
-- Development of studies.
-- Meet with other squads to find the best way to use our resources.
 
-<br>
+- **1995**: On a rainy day, Isa comes to the world
+- **2007**: Change where I study
+- **2011**: Sad year to me.  I wrote a "book" (a naive book still a book)
+- **2012**: One tough decision: Quit mommy's house
+- **2013**: Admitted into  UFSCar Engineering Materials Bachelor
+- **2014**: Admitted into ITE Law Bachelor / Start to work as Call Center Agent
+- **2016**: Promotion to Data Assistant (fall in love with numbers <3)
+- **2017**: Promotion to Junior Data Analyst (fall in love with Data Science, let's study to get there)
+- **2018**: Promotion to Junior Data Scientist (What if I freeze my bachelor?)
+- **2020**: Promotion to Data Scientist (I learned a lot here!)
+- **2021**: Change where I work (This decision was difficult, but it was worth it.)
+- **2022**: Let's start a blog to improve English skills and spread knowledge
 
-## **PASCHOALOTTO | Nov/2014 - Oct/2021**
-## Data Scientist | Oct/2020 - Oct/2021
-Responsible for the Proof of Concept of people analytics.
-- Project development, mapping of all databases, model development, and meeting management.
-- Creation of quizzes, gamification, and other approaches for collecting data.
-- Tracking projects deadlines and deliveries.
+## Curiosities
 
-<br>
+1. I have a lot of nicknames: Barrenha, Little João, Little Victor, Jhonny, Juan, and Isa
+2. My favorite food is Nishime
+3. I wish to visit Japan someday
+4. I love to study politics, but I only talk with fewer trusted people
+5. Please, don't try chitchat with me
+6. I love silence, and I prefer nonverbal communication
+7. My favorite movie is Grave of The Fireflies (Studio Ghibli)
+8. My favorite book is Captain of the Sands (Jorge Amado)
+9. My favorite musical genre is Vaporwave (Try macintosh plus)
 
-## Junior Data Scientist | Jul/2018 - Oct/2020
-Acting in projects related to social profiling, dialing scores, and studies about the best way to contact clients. 
-- Creation and implementation of optimized dialing rules.
-- Implementation of a geolocalization treatment routine.
-- Development of scores for propensity for payment.
-- Development of Text Messages interpretation algorithm.
+## Contacts    
+ 
+Phone: +55 14 98815-7415
 
-<br>
+E-mail: <a href="barrenha95@yahoo.com.br">barrenha95@yahoo.com.br</a>
 
-## Junior Data Analyst - Digital Products | Sep/2017 - Jul/2018
-Responsible for the strategic development and Key Performance Indicators (KPI) monitoring regarding the company’s online platform for debt negotiation.
-- Creation of dashboards to track and monitor the KPI and development of executive presentations.
-- Validation and follow-up of new features in the online platform.
-- Development of strategies to reach customers using resources such as cell phone text messages and e-mails.
+Linkedin:  <a href="https://www.linkedin.com/in/barrenha95/">linkedin.com/in/barrenha95</a>
 
-<br>
-
-## Data Assistant - Digital Products | Dec/2016 - Sep/2017
-Responsible for implementing strategies and updating KPI dashboards.
-- Selection of a specific profile of customers to reach them with cell phone text messages, e-mails, and Facebook ads.
-- Gather and process data for the analysts.
-- Daily update of dashboards.
-
-<br>
-
-## Call Center Agent | Nov/2015 - Dec/2016
-Attendance of customer's calls helping them with bank debits.
-- Help customers to solve their financial issues, guiding them to the best bank product for their situation.
-
-<br>
-
-<h2 align = "center"> EDUCATION </h2>
-
-### INSTITUIÇÃO TOLEDO DE ENSINO - BAURU/SP, BRAZIL
- Bachelor's degree in Law: In progress (2022)
-
-<br>
-
-### ANHANGUERA EDUCACIONAL - BAURU/SP, BRAZIL
- Associate degree in Data Science: In progress (2024)
-
-<br>
-
-<h2 align = "center"> LANGUAGES </h2>
-
-### Portuguese - Native
-### English - Intermediary (between levels B1 and B2)
-### German - Beginner (level A1)
+Github:  <a href="https://github.com/barrenha95">github.com/barrenha95</a>
