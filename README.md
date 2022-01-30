@@ -4,96 +4,102 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+<h2 align = "center"> JOÃO VICTOR ISÁ BARRENHA </h2>
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+<h4 align = "center"> <a href="barrenha95@yahoo.com.br">barrenha95@yahoo.com.br</a> | +55 14 98815 7415</h4>
 
-## Features
+<h4 align = "center"> <a href="https://www.linkedin.com/in/barrenha95/">linkedin.com/in/barrenha95</a> </h4>
+ 
+<br>
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+<h3 align = "center"> POSITIONS HELD: DATA SCIENTIST, MACHINE LEARNING ENGINEER AND DATA ANALYST </h3>
 
-## Based on
+<br>
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+<h2 align = "center"> SUMMARY & SKILLS </h2>
 
-## Installation (jekyll-remote-theme method)
+I'm highly motivated by professional development, seeking for excellence at work, and acquiring knowledge for problem solving. I have expertise with planning, especially in credit recovery, call center operations, and digital products. I have experience with artificial intelligence, machine learning, business analysis, data analysis, and planning. I’m passionate about data and my main desire is to help society with technological and innovative solutions.
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+- 3 years of experience with data science, 5 years with planning, and 7 years with credit recovery.
+- Proficient in Python, R, SQL, Business Intelligence and Machine Learning.
+- Used to work with different IDEs/text editors like Sublime, VS Code, Jupyter Notebook, Visual Studio Pro, Rstudio, and Google Colab.
+- Used to work with virtual environments and Git. 
+- Expert in Postgresql, SQL, FTP, APIs, and diverse types of text files.
+- Advanced knowledge in Power Bi, Tableau, and Microsoft Excel.
+- I’m highly organized. In almost all of the teams I've worked in, I was responsible for taking minutes at meetings, writing readable scripts, directory management, and project documentation.
+- I have a diplomatic personality. It helps me to avoid unnecessary conflicts while I defend the company's interests.
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+<br>
 
-plugins:
-  - jekyll-remote-theme
-```
+<h2 align = "center"> PROFESSIONAL EXPERIENCE </h2>
 
-Note: to enable icons you also need to copy over the `_data` folder.
+## **CLEAR SALE | Oct/2021 - current**
+## Modeling Analyst | Oct/2021 - current
+Acting as a Machine Learning Engineer
+- Management of Machine Learning models like implantations, swaps, and shutdowns.
+- Follow Machine Learning process reporting and solving issues.
+- Track some dashboards focused on Service Level Agreement (ex: time to process a requisition and score punctuation).
+  
+Responsible for the analytics insights in the external data squad.
+- Development of studies.
+- Meet with other squads to find the best way to use our resources.
 
-## Config
+<br>
 
-Your `_config.yml` could for example look like this:
+## **PASCHOALOTTO | Nov/2014 - Oct/2021**
+## Data Scientist | Oct/2020 - Oct/2021
+Responsible for the Proof of Concept of people analytics.
+- Project development, mapping of all databases, model development, and meeting management.
+- Creation of quizzes, gamification, and other approaches for collecting data.
+- Tracking projects deadlines and deliveries.
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+<br>
 
-# Layout
+## Junior Data Scientist | Jul/2018 - Oct/2020
+Acting in projects related to social profiling, dialing scores, and studies about the best way to contact clients. 
+- Creation and implementation of optimized dialing rules.
+- Implementation of a geolocalization treatment routine.
+- Development of scores for propensity for payment.
+- Development of Text Messages interpretation algorithm.
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+<br>
 
-# Menu
+## Junior Data Analyst - Digital Products | Sep/2017 - Jul/2018
+Responsible for the strategic development and Key Performance Indicators (KPI) monitoring regarding the company’s online platform for debt negotiation.
+- Creation of dashboards to track and monitor the KPI and development of executive presentations.
+- Validation and follow-up of new features in the online platform.
+- Development of strategies to reach customers using resources such as cell phone text messages and e-mails.
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+<br>
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+## Data Assistant - Digital Products | Dec/2016 - Sep/2017
+Responsible for implementing strategies and updating KPI dashboards.
+- Selection of a specific profile of customers to reach them with cell phone text messages, e-mails, and Facebook ads.
+- Gather and process data for the analysts.
+- Daily update of dashboards.
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+<br>
 
-plugins:
- - jekyll-feed
+## Call Center Agent | Nov/2015 - Dec/2016
+Attendance of customer's calls helping them with bank debits.
+- Help customers to solve their financial issues, guiding them to the best bank product for their situation.
 
-```
+<br>
 
-## MathJax
+<h2 align = "center"> EDUCATION </h2>
 
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
+### INSTITUIÇÃO TOLEDO DE ENSINO - BAURU/SP, BRAZIL
+ Bachelor's degree in Law: In progress (2022)
 
-## License
+<br>
 
-[public domain](http://unlicense.org/)
+### ANHANGUERA EDUCACIONAL - BAURU/SP, BRAZIL
+ Associate degree in Data Science: In progress (2024)
 
-## Screenshots
+<br>
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
+<h2 align = "center"> LANGUAGES </h2>
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+### Portuguese - Native
+### English - Intermediary (between levels B1 and B2)
+### German - Beginner (level A1)
