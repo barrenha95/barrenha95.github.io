@@ -9,7 +9,7 @@ layout: page
 <img class = "marginauto" src="/assets/img/general/authors.jpg" width = "400" height = "400"> 
 
 
-Is a brazillian Data Scientist borned in 1995.
+Brazillian Data Scientist borned in 1995.
 
 In high school times, he suffered a lot to choose which path of study he would follow (A proof is that he tried medicine, made a year of engineering, and soon will end his bachelor's degree in law).
 
