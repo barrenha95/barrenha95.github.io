@@ -55,3 +55,5 @@ E-mail: <a href="barrenha95@yahoo.com.br">barrenha95@yahoo.com.br</a>
 Linkedin:  <a href="https://www.linkedin.com/in/barrenha95/">linkedin.com/in/barrenha95</a>
 
 Github:  <a href="https://github.com/barrenha95">github.com/barrenha95</a>
+
+Instagram:  <a href="https://www.instagram.com/isabarrenha/">instagram.com/isabarrenha</a>
