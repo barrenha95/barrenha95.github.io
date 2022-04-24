@@ -12,16 +12,16 @@ date:   2022-04-23
 
 <br>
 
-Hey there. In a few seconds, you will learn how to maximize your win rate in TV shows games.
-Have you ever heard about "Monty Hall Problem"?
+Hey there. Here you will learn to maximize your win rate in 70's TV shows games.
+Have you ever heard about the "Monty Hall Problem"?
 
 ### 1. What is Monty Hall
 
 <img class = "marginauto" src="/assets/img/2022/04/2022-04-23-monty-hall/monty_hall_photo.jpeg" width = "400" height = "400"> 
 <br>
 
-In the 70's the TV game show "Let's make a Deal" was a big success. In this show the genious host Monty Hall played some games with the audience givin then the opportunity to win a lot o cash or other goodies.
-One of these games were a incredible "probability" problem that is studied until today, and in this post you will learn a good strategy to "win" this game. Lets see
+In the 70s', the TV game show "Let's Make a Deal" was a big success. In this show, the genius host Monty Hall played some games with the audience with a lot of cash or other goodies as a prize.
+One of these games was an incredible "probability" problem (studied until today), and in this post, you will learn a good strategy to "win" this game.
 
 ### 2. The doors problem
 
@@ -38,29 +38,30 @@ The steps are simple:
 
 >He asks you: Do you want to change the chosen door?
 
->After the question que opens the door you chosen
+>After the question, he opens the door you have chosen
 
 ### 3. The strategy to win
 
-Maybe you are thinking: Regardless of what choose the probability will still be 1/3! I prefer to continue with my lucky number.
+Maybe you are thinking: Regardless of my decision, the probability will still be 1/3! I prefer to continue with my lucky number.
 Or even: Is there a way to increase my chances of winning?
 
 Now the spoiler: 
 >The good side is that you can double your chances o winning.
->The bad side is that the explanation isn't intuitive
 
-Come with me, I will try to explain why "change the door" is always the best choice:
+>The bad is that the explanation isn't intuitive
+
+I will try to explain why "change the door" is always the best choice:
 
 >You have 1/3 of the chances to choose the right door or, in other words, 2/3 to choose the wrong door.
 
->If you stay with your decision, you continue with 1/3 of the chances to win. If you change your door, your chances rise to 2/3 because of the intervention of the announcer.
+>If you stay with your decision, you continue with 1/3 of the chances to win. If you change your door, your rate will rise to 2/3 because of the intervention of the announcer.
 
->The secret of this estrategy is because the announcer will always open a bad one because *HE KNOWS WHERE THE MONEY PRIZE IS*
+>The secret of this strategy is because the announcer will always open a bad one because *HE KNOWS WHERE THE MONEY PRIZE IS*
 
 ### 4. Graphical demonstration
 
 Okay, I know you are confused now (As I was when I read about that for the first time).
-I will try to help you with a "Graphical ilustration"
+I will try to help you:
 
 The example: 
 
@@ -75,20 +76,20 @@ The example:
 | 3            | Y      | L      |
 | 3            | N      | W      |
 
->You have 1/3 of chances to choose the right door at first.
->>In this case if you change the door you lose.
+>You have 1/3 of the chances to choose the right door first.
+>>In this case, you will lose if you change the door.
 
->You have 2/3 of chances to choose the wrong door at first.
->>In this case if you change the door you win.
+>You have 2/3 of the chances to choose the wrong door first.
+>>In this case, you will win if you change the door.
 
->If you always assume that you will choose the wrong door at first you will double your chances to win.
+>If you always assume that you will choose the wrong door, you will double your win rate.
 
 ### 5. Simulator in python
 
-To show you how this is a "winner strategy" I've written a script in Python to simulates this.
+To show you this winner shortcut, I've written a script in Python to simulate it.
 >Please, feel free to use this code if you want.
 
-First we will import some libraries used in this script and create a function to "turn" things easier.
+First, we will import some libraries used in this script and create a function to "turn" things easier.
 
 ```python
 # Calling used libraries
@@ -120,7 +121,10 @@ def MontyHall():
     return(result)
 ```
 
-Now let's test the scenarios:
+Now let's test the scenarios.
+For this example, I used ten runs
+> You can try another number of tests if you want
+>> You will notice that the win rate when you change will always be close to 66%
 
 ```python
 
