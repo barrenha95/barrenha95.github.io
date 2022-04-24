@@ -12,343 +12,240 @@ date:   2022-04-23
 
 <br>
 
-Hey there. In a few seconds, you will read a summary of the book written by Leonard Mlodinow.
+Hey there. In a few seconds, you will learn how to maximize your win rate in TV shows games.
+Have you ever heard about "Monty Hall Problem"?
 
-I do not own the rights of any idea exposed here, I only made this summarization for later studies.
-Even though all chapters are good (I swear), I will only comment about what I most liked.
+### 1. What is Monty Hall
 
-### Chapter 1. Peering through the Eyepiece of Randomness
+<img class = "marginauto" src="/assets/img/2022/04/2022-04-23-monty-hall/monty_hall_photo.jpeg" width = "400" height = "400"> 
+<br>
 
-The main objective of this chapter is to make us think about how we can assume things only because we have faith in the idea that things are what they look alike. It is a big problem because we underestimate how randomness can make phenomenons occur.
-Two examples:
+In the 70's the TV game show "Let's make a Deal" was a big success. In this show the genious host Monty Hall played some games with the audience givin then the opportunity to win a lot o cash or other goodies.
+One of these games were a incredible "probability" problem that is studied until today, and in this post you will learn a good strategy to "win" this game. Lets see
 
-1. Talks about how we express opinions about others' deeds wrongly. A plane pilot makes a good landing better than usual for random reasons like the wind. The other pilots and the instructor can criticize or praise his work based on this landing.
+### 2. The doors problem
 
-2. The second example talks about how we measure movies directors because of the number of ticket sales. Huge profits aren't only about quality but also some random factors. It is normal to see a movie that went bad in sales and later is considered a masterpiece.
+<img class = "marginauto" src="/assets/img/2022/04/2022-04-23-monty-hall/monty_hall_doors.jpeg" width = "400" height = "400"> 
+<br>
 
+Imagine that you must choose between 3 doors.
+In one of them, you have a *big money prize*. The two others have *only a goat*.
+The steps are simple:
 
-### Chapter 2. The Laws of Truths and Half-Truths
+>You select one of the doors
 
-This chapter is statistics 101. The most important idea here is to show us how to think statistically. 
-How to see real-life problems into probability scenarios?
-When do you have to sum or multiply probabilities?
+>The host opens one of the last doors showing you only a goat
 
-If two events are independent, then we must multiply their probabilities.
+>He asks you: Do you want to change the chosen door?
 
->For example, the probability of the two future sons of a family being girls.
+>After the question que opens the door you chosen
 
->>F = Female
+### 3. The strategy to win
 
->>M = Male
+Maybe you are thinking: Regardless of what choose the probability will still be 1/3! I prefer to continue with my lucky number.
+Or even: Is there a way to increase my chances of winning?
 
->Possibilities: (F, M); (F, F); (M, F); (M, M)
+Now the spoiler: 
+>The good side is that you can double your chances o winning.
+>The bad side is that the explanation isn't intuitive
 
-When multiple results of the same event can guarantee success, you sum the probabilities.
->For example, the probability of a dice roll results in pair numbers.
+Come with me, I will try to explain why "change the door" is always the best choice:
 
->Possibilities: (1); (2); (3); (4); (5); (6)
+>You have 1/3 of the chances to choose the right door or, in other words, 2/3 to choose the wrong door.
 
->>2 = 1/6
+>If you stay with your decision, you continue with 1/3 of the chances to win. If you change your door, your chances rise to 2/3 because of the intervention of the announcer.
 
->>4 = 1/6
+>The secret of this estrategy is because the announcer will always open a bad one because *HE KNOWS WHERE THE MONEY PRIZE IS*
 
->>6 = 1/6
+### 4. Graphical demonstration
 
->1/6 + 1/6 + 1/6 = 3/6 = 1/2
+Okay, I know you are confused now (As I was when I read about that for the first time).
+I will try to help you with a "Graphical ilustration"
 
-
-### Chapter 3. Finding Your Way through a Space of Possibilities
-
-This time the explanation will be brief. 
-The most important idea for me about this chapter was a continuation of the ideas presented in chapter 2.
-In this chapter, we go deep into the idea of describing daily phenomenons into statistical notation. 
-
->The example is again about the probability of the two future sons of a family being girls. But this time you know that one of the kids already is a girl. Maybe you think that the probability is 1/4, but this is a wrong thought. The chances are 1/3.
-
->> F = Female
-
->> M = Male
-
->Possibilities: (F, M); (F, F); (M, F) 
-
-Another good example here is the *Monty Hall problem*.
-
->You are in a TV show and must choose between 3 doors. In only one of them, you will receive a big prize. You select one of the doors then the announcer opens one of the last doors showing you only a matchbox. He asks you the million dólars question:
-
->Do you want to change the chosen door?
-
->>And now? What will you do to increase your chances of winning?
-
->>Maybe you are thinking: The probability will still be 1/3! I prefer to continue with my lucky number.
-
->Come with me see that if you change, your chances will rise:
-
->>You have 1/3 of the chances to choose the right door or, in other words, 2/3 to choose the wrong door. The announcer will always open a bad one. 
-
->>If you stay with your decision, you continue with 1/3 of the chances to win. If you change your door, your chances rise to 2/3 because of the intervention of the announcer.
-
-
-### Chapter 4. Tracking the Pathways to Success
-
-This chapter, again, is a continuation of the ideas presented in the last one. This time you will learn how to calculate the chances of a team winning a final game when it won the two first games.
 The example: 
 
->MLB 96 finals: Atlanta Braves and New York Yankees.
->Two matches already won by the Braves.
->How to calculate the Yankees' chances of winning?
+>The money prize is on the last door (Door number 3)
 
->>B = Braves
+| Door choosen | Change | Result |
+|:--:          |:--:    |:--:    |
+| 1            | Y      | W      |
+| 1            | N      | L      |
+| 2            | Y      | W      |
+| 2            | N      | L      |
+| 3            | Y      | L      |
+| 3            | N      | W      |
 
->>Y = Yankees
+>You have 1/3 of chances to choose the right door at first.
+>>In this case if you change the door you lose.
 
->>M* = Number of the match game
+>You have 2/3 of chances to choose the wrong door at first.
+>>In this case if you change the door you win.
 
+>If you always assume that you will choose the wrong door at first you will double your chances to win.
 
-| M3 | M4 | M5 | M6 | M7 | WINNER  |
-|:--:|:--:|:--:|:--:|:--:|:-------:|
-| B  | B  | B  | B  | B  | BRAVES  |
-| B  | B  | B  | B  | Y  | BRAVES  |
-| B  | B  | B  | Y  | B  | BRAVES  |
-| B  | B  | B  | Y  | Y  | BRAVES  |
-| B  | B  | Y  | B  | B  | BRAVES  |
-| B  | B  | Y  | B  | Y  | BRAVES  |
-| B  | B  | Y  | Y  | B  | BRAVES  |
-| B  | Y  | B  | B  | B  | BRAVES  |
-| B  | Y  | B  | B  | Y  | BRAVES  |
-| B  | Y  | B  | Y  | B  | BRAVES  |
-| B  | Y  | Y  | B  | B  | BRAVES  |
-| Y  | B  | B  | B  | B  | BRAVES  |
-| Y  | B  | B  | B  | Y  | BRAVES  |
-| Y  | B  | B  | Y  | B  | BRAVES  |
-| Y  | B  | Y  | B  | B  | BRAVES  |
-| Y  | Y  | B  | B  | B  | BRAVES  |
-| B  | B  | Y  | Y  | Y  | BRAVES  |
-| B  | Y  | B  | Y  | Y  | BRAVES  |
-| B  | Y  | Y  | B  | Y  | BRAVES  |
-| B  | Y  | Y  | Y  | B  | BRAVES  |
-| Y  | B  | B  | Y  | Y  | BRAVES  |
-| Y  | B  | Y  | B  | Y  | BRAVES  |
-| Y  | B  | Y  | Y  | B  | BRAVES  |
-| Y  | Y  | B  | B  | Y  | BRAVES  |
-| Y  | Y  | B  | Y  | B  | BRAVES  |
-| Y  | Y  | Y  | B  | B  | BRAVES  |
-| B  | Y  | Y  | Y  | Y  | YANKEES |
-| Y  | B  | Y  | Y  | Y  | YANKEES |
-| Y  | Y  | B  | Y  | Y  | YANKEES |
-| Y  | Y  | Y  | B  | Y  | YANKEES |
-| Y  | Y  | Y  | Y  | B  | YANKEES |
-| Y  | Y  | Y  | Y  | Y  | YANKEES |
+### 5. Simulator in python
 
+To show you how this is a "winner strategy" I've written a script in Python to simulates this.
+>Please, feel free to use this code if you want.
 
->YANKEES CHANCES TO WIN = 6/32 = **18%**
+First we will import some libraries used in this script and create a function to "turn" things easier.
 
->BRAVES CHANCES TO WIN = 26/32 = **81%**
+```python
+# Calling used libraries
+from random import sample # To sample results
+import numpy # To do the if_else statement
+
+## Now let's create a function to help us making this test multiple times
+def MontyHall():
+
+    global result, prize, door_choosen
+
+    # Creating a list with the number of possible options
+    list_of_doors = [1, 2, 3]
+    print(list_of_doors)
+
+    # Testing the sample function
+    #print(sample(list_of_doors,1))
+
+    # Assignment of the prize
+    prize = int(sample(list_of_doors,1)[0])
+    print(prize)
+
+    # Choose the door
+    door_choosen = int(sample(list_of_doors,1)[0])
+    print(door_choosen)
+    
+    # Checking if is better to change the door or not
+    result = numpy.where(door_choosen == prize, "Dont_change", "Change")
+    return(result)
+```
+
+Now let's test the scenarios:
+
+```python
+
+# Set the number of tries you want to test
+number_of_tries = 10
+
+# Count the number of times change the door = win the prize
+change_is_win = 0
+
+while True:
+    try:
+        option = int(input("Press 1 to see all runs or 0 to skip"))
+        option in [1,2]
+    except ValueError:
+        print("Your input is out of parameters")
+        continue
+    else:
+        break    
+
+for i in range(number_of_tries):
+    
+    MontyHall()
+
+    # Count number of times changing the door let you win
+    count = numpy.where(result == 'Change', 1, 0)
+    change_is_win = int(change_is_win) + int(count)
+
+    if option == 1 :
+        print("Test number " + str(i + 1))
+        print("Prize: " + str(prize))
+        print("Door Choosen: " + str(door_choosen))
+        print("This time you must: " + str(result))
+
+        # Chances of win changing the door
+        print("Change door chances: " + str(int(change_is_win) / int(i + 1)))
+
+# Chances of win changing the door
+final_chances = str(int(change_is_win) / int(i + 1))
+print("Change door chances: " + str(final_chances))
+```
+
+Now see the results:
+
+**Test number 1**
+> Prize is on door 1
+
+> You choose the door 3
+>> If you change you win
+
 <br>
 
-You will learn in this chapter also how to calculate the probabilities of a phenomenon by formula or by Pascal's triangle.
-Because of practical motives, I will only show how to use the formula. 
-If you want to see Pascal's triangle, be free to search on the internet.
+**Test number 2**
+> Prize is on door 3
 
-We can calculate the number of results possible in the game example as:
-
-> 2⁵ = 32
-
->2 results possibles ^ 5 possible games
-
-
-### Chapter 5. The Dueling Laws of Large and Small Numbers
-
-This one was one of the mind-blowing chapters. Here we will start to study samples. The author presents us to the idea of samples:
-
-
-1. To be a sample in Deterministic Probability, after multiple collections the tendency is to all numbers have the same frequency.
-
-2. To be a sample in Subjective Probability, the results must be impossible to predict. Rolling dice is not a sample in this idea. Theoretically, in a perfect world, every influence can be measured enabling us to predict the result.
-
-
-After this explanation, **Zenon's Paradox** is presented to us:
-
->Imagine your daughter must pass through the door of your living room. This door is 1 meter of a distance from where she is. To pass through, she must walk necessarily by half of the range (50 cm), but to get there she must walk half of the half distance (25 cm). This logic will continue ad eternum. 
-
-The conclusion:
-
-- [ ] She never will pass through that door!
-
-- [x] I'm too mutch confused to talk.
-
-
-It was a brilliant introduction to the Limit idea:
-
->The limit of this problem is 1 meter. Because every time we continue this logic, we reach nearest to the 1 meter.
-
-| STEP | RESULT   | VALUE  |
-|:----:|:--------:|:------:|
-| 1    | 1/2      | 0,5    |
-| 2    | 3/4      | 0,75   |
-| 3    | 7/8      | 0,875  |
-| 4    | 15/16    | 0,9375 |
-| ...  | ...      | ...    |
-| 10   | 1023/1024| 0,99902|
-
-
-This Paradox is a brilliant way to introduce us to the idea of the **Aureum Theorema**.
-As the same experiment repeats more times, the mean of the results will grow near to the real probability of an event to occur.
+> You choose the door 3
+>> If you change you lose
 
 <br>
-Time for demonstration:
 
-> You roll a 3 sided dice. How to measure the mean value of the possible results?
+**Test number 3**
+> Prize is on door 1
 
->> EV = Expected value = Theorical probabilty
+> You choose the door 3
+>> If you change you win
 
-> EV = (1 + 2 + 3)/3 = 6/3 = 2
+<br>
 
-| STEP | RESULT| MEAN   |
-|:----:|:-----:|:------:|
-| 1    | 3     | 3      |
-| 2    | 2     | 2,5    |
-| 3    | 3     | 2,66...|
-| 4    | 1     | 2,25   |
-| ...  | ...   | ...    |
-| X    | Vx    | 2      |
- 
+**Test number 4**
+> Prize is on door 2
 
-As the number of turns grows, the mean of the results comes close to the EP.
+> You choose the door 1
+>> If you change you win
 
+<br>
 
-### Chapter 6. False Positives and Positive Fallacies
+**Test number 5**
+> Prize is on door 2
 
-You will learn how conspiracy theories and medical errors occur because of misunderstandings about probability.
+> You choose the door 2
+>> If you change you lose
 
-Which one has more chances:
-1. Your boss stopped answering your calls because he is going to fire you
-2. Your boss will dismiss you because he stopped answering your calls
+<br>
 
-Do you agree that exist many explanations to this besides dismisses?
+**Test number 6**
+> Prize is on door 3
 
-For example, his phone passed away, he is sleeping, or he could suffer a stroke.
+> You choose the door 2
+>> If you change you win
 
-The answer is that the second scenario has lesser chances to occur than the first one.
+<br>
 
-I spend near to forty minutes thinking about this chapter. Everything looks so confused. When I get a conclusion, I start to doubt my thought two seconds later.
+**Test number 7**
+> Prize is on door 3
 
-Another good example is how the two daughters' problem can change if one of the children is named Florida.
+> You choose the door 3
+>> If you change you lose
 
-Start from where we stopped last time:
+<br>
 
->One couple with two children. One of the children is a girl named Florida. I need the probability the couple has two daughters.
+**Test number 8**
+> Prize is on door 3
 
->>You can think: There is no relation between the name and the chances of this phenomenon.
+> You choose the door 2
+>> If you change you win
 
->I liked your logic, and I will love to see your surprised face.
+<br>
 
->>FF = Female named Florida
+**Test number 9**
+> Prize is on door 3
 
->>FN = Female non named Florida
+> You choose the door 1
+>> If you change you win
 
->>M  = Male
+<br>
 
-Probable scenarios:
+**Test number 10**
+> Prize is on door 2
 
-| 1º | 2º |
-|:--:|:--:|
-| M  | M  |
-| M  | FF |
-| M  | FN |
-| FF | M  |
-| FN | M  |
-| FN | FF |
-| FF | FN |
-| FN | FN |
-| FF | FF |
+> You choose the door 1
+>> If you change you win
 
-Cutting some scenarios off because one of the children is a girl named Florida.
+<br>
 
-| 1º | 2º |
-|:--:|:--:|
-| M  | FF |
-| FF | M  |
-| FN | FF |
-| FF | FN |
-| FF | FF |
+**Chances to win changing the door**
+> 10 tests
 
-Let's cut another scenario:
-
->We know the probability of a girl named Florida is near to 1/1,0000,000. Because of it, two children from the same parents with the same name are rare.
-
-| 1º | 2º |
-|:--:|:--:|
-| M  | FF |
-| FF | M  |
-| FN | FF |
-| FF | FN |
-
-
-With this logic, the probability of the couple having two girls is:
->2/4 = 1/2 = **50%**
-
-
-### Announcement
-
-Being very straight with you:
-1. I'm tired of writing this.
-2. You probably are very tired of reading it too.
-
-I rode the book on 2021-12-27 and started writing this on 2022-01-06.
-
-**I'm still writing this Today (2022-01-30 )**.
-
-
-Because of it, I came to 2 conclusions:
-1. I have to rethink my creative process to be faster.
-2. I have to make shorter articles.
-
-
-Here comes the announcement:
-
->Next topics I will only summarize the themes.
-
-I don't have the motivation to continue explaining with my own words and, you probably don't have interest in a giant article.
-
-
-### Chapter 7. Measurement and the Law of Errors
-
-
-This chapter is important because he introduces us to how ordinary are variations in multiple measurements of the same phenomenon.
-
-What do you find here?
-1. What is Mean Deviation
-2. What is Variance
-3. What is a normal/gaussian distribution and how does it describes a lot of phenomenons
-
-
-### Chapter 8. The Order in Chaos
-
-Here you will learn:
-1. How to unmask frauds using Gaussian distribution
-2. That exists other types of distributions
-3. What is Correlation Coefficient and Chi-Square test
-
-One last commentary: 
-
-This is my favorite chapter, not only because of the knowledge but also because of one quote:
-
->"It might seem daunting to think that effort and chance, as much as innate talent, are what counts. But I find it encouraging because, while our genetic makeup is out of our control, our degree of effort is up to us. And the effects of chance, too, can be controlled to the extent that by committing ourselves to repeated attempts, we can increase our odds of success."
-
-
-### Chapter 9. Illusions of Patterns and Patterns of Illusion
-
-Here is no statistical knowledge. You will be much happier if you read this expecting to know more about how our brain works.
-
-This chapter gives us examples of how our mind tricks us showing patterns where it is missing. 
-
-Here we also had an important piece of advice that comes with me along:
-
->"When we are in the grasp of an illusion — or, for that matter, whenever we have a new idea — instead of searching for ways to prove our ideas wrong, we usually attempt to prove them correct. Psychologists call this the confirmation bias, and it presents a major impediment to our ability to break free from the misinterpretation of randomness."
-
-
-### Chapter 10. The Drunkard’s Walk
-
-This chapter is not about theories too. 
-
-Here the central idea is to show us that **aleatory is a normal phenomenon** in the universe and why the right decisions are obvious looking in the past, but it's hard to make good decisions at present.
+> 7 times you win if you change
+>> 7/10 = 70% of win rate 

@@ -35,11 +35,11 @@ Every time you need to search for posts, this page will be your guide because he
 <br>
 
 ## **2 - Statistics**
-  - We've frustrated you again? Sorry dude.
+- 2022-04-23: [The Monty Hall Problem](_posts/2022-04-23-monty-hall-calculator.md): A great strategy to win a lot of money in a 70's TV Show Game
 <br>
 
 ## **3 - Programming**
-  - Again there is no post? I'm tired of excusing because of the Authors fault!
+  - We've frustrated you again? Sorry dude.
 <br>
 
 ## **4 - Books**
